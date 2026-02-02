@@ -24,7 +24,6 @@ wheels/
 *.pt
 *.pth
 *.ckpt
-models/
 .checkpoints/
 runs/
 **/wandb/
