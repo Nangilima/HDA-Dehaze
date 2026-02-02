@@ -1,10 +1,10 @@
 # HDA-Dehaze
 
-## Haze-Density-Aware Single Image Dehazing via Progressive Mean-Teacher Diffusion Learning
+## Haze-Density-Aware Non-Homogeneous Dehazing via Cascaded Mean-Teacher Diffusion Refinement
 
 ### Overview
 
-HDA-Dehaze is a single image dehazing method based on progressive mean-teacher diffusion learning. This approach achieves high-quality dehazing results through density-aware haze modeling combined with the powerful generative capabilities of diffusion models.
+HDA-Haze is a haze-density-aware framework for non-homogeneous image dehazing that synergistically combines cascaded mean-teacher learning with diffusion-based refinement. By explicitly modeling scene-dependent haze density and leveraging the generative capabilities of diffusion models, HDA-Haze enables robust training under extreme label scarcity while achieving state-of-the-art dehazing quality.
 
 ### Installation
 
